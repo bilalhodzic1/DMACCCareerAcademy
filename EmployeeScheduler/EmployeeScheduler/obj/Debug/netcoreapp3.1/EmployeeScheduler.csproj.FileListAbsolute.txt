@@ -1,0 +1,164 @@
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.AssemblyInfoInputs.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.AssemblyInfo.cs
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.csproj.CoreCompileInputs.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeScheduler.StaticWebAssets.Manifest.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeScheduler.StaticWebAssets.xml
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/scopedcss/bundle/EmployeeScheduler.styles.css
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorTargetAssemblyInfo.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.pdb
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.exe
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.deps.json
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.runtimeconfig.json
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.runtimeconfig.dev.json
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.pdb
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Humanizer.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.csproj.CopyComplete
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.genruntimeconfig.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.Views.dll
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.Views.pdb
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorAssemblyInfo.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorAssemblyInfo.cs
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.TagHelpers.input.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.TagHelpers.output.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorCoreGenerate.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorTargetAssemblyInfo.cs
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.Views.pdb
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/Schedule/Add.cshtml.g.cs
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/Schedule/Delete.cshtml.g.cs
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.csprojAssemblyReference.cache
+C:/Users/Bilal Hodzic/source/repos/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.StaticWebAssets.xml
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.deps.json
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.runtimeconfig.json
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.runtimeconfig.dev.json
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.pdb
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.Views.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/EmployeeScheduler.Views.pdb
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.csproj.AssemblyReference.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.AssemblyInfoInputs.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.AssemblyInfo.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.csproj.CoreCompileInputs.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.MvcApplicationPartsAssemblyInfo.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorAssemblyInfo.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorAssemblyInfo.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/staticwebassets/EmployeeScheduler.StaticWebAssets.Manifest.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.TagHelpers.input.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.TagHelpers.output.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorCoreGenerate.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/Schedule/Add.cshtml.g.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/Schedule/Delete.cshtml.g.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/User/Add.cshtml.g.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/User/Delete.cshtml.g.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/User/Index.cshtml.g.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorTargetAssemblyInfo.cache
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.RazorTargetAssemblyInfo.cs
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.Views.pdb
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.csproj.CopyComplete
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.dll
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.pdb
+/Users/bilalhodzic/Documents/FreshmanYEar/Spring2022/EmployeeScheduler/EmployeeScheduler/obj/Debug/netcoreapp3.1/EmployeeScheduler.genruntimeconfig.cache
