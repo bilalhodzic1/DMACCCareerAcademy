@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5MfRBEI3e1LR/FgbszXr+PEh/kcd0AOc9fTEvocjjLvE32KrdfFhzcWy3Xmy2WRP6oqxyaEG/zB9srFnl48r5g==",
+  "dgSpecHash": "8p2GR8c6LO1FlH33ZXQ2wINUxPftpa25iDd0cGfPAonioivvJsdxtvS/oIsa2p7K+L04GgrphYdGanZsi+Mssw==",
   "success": true,
   "projectFilePath": "/Users/bilalhodzic/Documents/githubrepos/DMACCCareerAcademy/EmployeeScheduler/EmployeeScheduler/EmployeeScheduler.csproj",
   "expectedPackageFiles": [
@@ -102,7 +102,7 @@
     "/Users/bilalhodzic/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
     "/Users/bilalhodzic/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "/Users/bilalhodzic/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "/Users/bilalhodzic/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+    "/Users/bilalhodzic/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
